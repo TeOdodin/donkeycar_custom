@@ -16,8 +16,8 @@ sys.setrecursionlimit(10**5)
 
 from .vehicle import Vehicle
 from .memory import Memory
+from . import my_cv
 from . import utils
 from . import config
 from . import contrib
 from .config import load_config
-from . import my_cv
