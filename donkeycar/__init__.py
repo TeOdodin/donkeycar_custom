@@ -20,3 +20,4 @@ from . import utils
 from . import config
 from . import contrib
 from .config import load_config
+from . import my_cv
