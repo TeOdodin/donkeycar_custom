@@ -23,7 +23,7 @@ from typing import List, Any, Tuple
 from PIL import Image
 import numpy as np
 
-import my_cv
+# import my_cv
 
 '''
 IMAGES
